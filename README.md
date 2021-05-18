@@ -8,6 +8,7 @@
 * Phone:+91 9876543210<br>
 * Address:Vijayawada<br>
 ### Educaional Details<br>
+
 **B-tech**<br>
    - College Name:Mic College<br>
    - Branch:CSE<br>
