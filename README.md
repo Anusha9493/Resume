@@ -8,7 +8,7 @@
 * Phone:+91 9876543210<br>
 * Address:Vijayawada<br>
 ### Educational Details<br>
-**B.tech**<br>
+ **B.tech**<br>
 - Clg Name: Mic college<br>
 - Branch:CSE<br>
 - Year of Study:2018-2022<br>
@@ -26,11 +26,11 @@
 - Percentage:98%<br>
 - Address:Bhavanipuram,Vijayawada<br>
 **Skills**<br>
-- Python-Beginning level
-- C Programming-Intermediate level
-- DBMS-Begging level
-**Hobbies**
-- Reading news paper
-- Listening Music
+- Python-Beginning level<br>
+- C Programming-Intermediate level<br>
+- DBMS-Begging level<br>
+**Hobbies**<br>
+- Reading news paper<br>
+- Listening Music<br>
 
 
